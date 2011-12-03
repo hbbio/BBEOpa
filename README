@@ -1,0 +1,9 @@
+Copy the file to “username/Library/Application Support/TextWrangler/Language Modules”
+
+This language module also works with BBEdit (as of version 8.5).
+However, to use the module, you must create the directory
+
+~/Library/Application Support/BBEdit/Language Modules
+
+since it is not created by default after installation. Then simply copy
+the Opa.plist file into that directory.
